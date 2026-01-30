@@ -18,7 +18,7 @@ The projects hosted here reflect my **learning journey**. They are not all perfe
 ## My Git Stats
 ![](https://github-readme-stats.vercel.app/api?username=MinePopTheReal&theme=dark&hide_border=false)
 <!-- ![](https://nirzak-streak-stats.vercel.app/?user=MinePopTheReal&theme=dark&hide_border=false) -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MinePopTheReal&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MinePopTheReal&theme=dark&hide_border=false&layout=compact)
 
 ## To contact me
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/minepop)[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:realminepop@gmail.com)
