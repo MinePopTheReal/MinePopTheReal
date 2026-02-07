@@ -16,9 +16,10 @@ The projects hosted here reflect my **learning journey**. They are not all perfe
 ![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ## My Git Stats
-![](https://github-readme-stats.vercel.app/api?username=MinePopTheReal&theme=dark&hide_border=false)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=MinePopTheReal&theme=dark&hide_border=false) -->
 <!-- ![](https://nirzak-streak-stats.vercel.app/?user=MinePopTheReal&theme=dark&hide_border=false) -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MinePopTheReal&theme=dark&hide_border=false&layout=compact)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MinePopTheReal&theme=dark&hide_border=false&layout=compact) -->
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/MinePopTheReal?cardType=level-alternate&theme=vision-friendly-dark&fontFamily=Baloo%202&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ## To contact me
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/minepop)[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:realminepop@gmail.com)
@@ -26,6 +27,7 @@ The projects hosted here reflect my **learning journey**. They are not all perfe
 ---
 
 ![](https://visitcount.itsvg.in/api?id=MinePopTheReal&icon=0&color=7)
+
 
 
 <!-- I used the website 'gprm.itsvg.in' to create my profile, but I modified it considerably. -->
