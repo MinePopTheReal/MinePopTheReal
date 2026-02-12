@@ -19,7 +19,7 @@ The projects hosted here reflect my **learning journey**. They are not all perfe
 <!-- ![](https://github-readme-stats.vercel.app/api?username=MinePopTheReal&theme=dark&hide_border=false) -->
 <!-- ![](https://nirzak-streak-stats.vercel.app/?user=MinePopTheReal&theme=dark&hide_border=false) -->
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MinePopTheReal&theme=dark&hide_border=false&layout=compact) -->
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/MinePopTheReal?cardType=level-alternate&theme=vision-friendly-dark&fontFamily=Baloo%202&preferLogin=false)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/MinePopTheReal?cardType=level-alternate&fontFamily=Roboto&preferLogin=false&Text=FFA833&Background=DD272700&Ring=DDBE1F&Title=FFA316&Border=DD272700)](https://git.io/awesome-stats-card)
 
 ## To contact me
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/minepop)[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:realminepop@gmail.com)
@@ -27,6 +27,7 @@ The projects hosted here reflect my **learning journey**. They are not all perfe
 ---
 
 ![](https://visitcount.itsvg.in/api?id=MinePopTheReal&icon=0&color=7)
+
 
 
 
