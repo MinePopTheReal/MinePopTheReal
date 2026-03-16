@@ -14,6 +14,7 @@ The projects hosted here reflect my **learning journey**. They are not all perfe
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![42](https://img.shields.io/badge/Student%20at%2042-000000?style=for-the-badge&logo=42&logoColor=white)
 
 <!--## My Git Stats
 ![](https://github-readme-stats.vercel.app/api?username=MinePopTheReal&theme=dark&hide_border=false)
